@@ -1,11 +1,12 @@
 const firebaseConfig = {
-      apiKey: "AIzaSyBFFmYPEWZxoHdcw8XlZfyZOkQiL5aUDww",
-      authDomain: "kwitter-af4e7.firebaseapp.com",
-      projectId: "kwitter-af4e7",
-      storageBucket: "kwitter-af4e7.appspot.com",
-      messagingSenderId: "23502634581",
-      appId: "1:23502634581:web:345f6b26698a334f3bdedc"
-    };
+  apiKey: "AIzaSyB7blgHRgOeCg2JVHNfPDqRFTmGVG54EGs",
+  authDomain: "tweeter-41818.firebaseapp.com",
+  projectId: "tweeter-41818",
+  storageBucket: "tweeter-41818.appspot.com",
+  messagingSenderId: "417674216220",
+  appId: "1:417674216220:web:22875e8b3a561bb9b530d9"
+};
+
     
 const app = initializeApp(firebaseConfig);
 
